@@ -24,7 +24,7 @@ export default function Home() {
 
       <h3>What We Offer</h3>
       <p>
-        A night out for Korean BBQ typically tends to be a whole production involving long wait times or all-you-can-eat deals you didn't ask for. 
+        A night out for Korean BBQ typically tends to be a whole production involving long wait times or all-you-can-eat deals you did not ask for. 
         But Magal is the opposite. This small, bright, loud spot takes last-minute reservations and the quality of meat and banchan is excellent. And even if you don’t normally like EDM, you’ll find that slowly but surely stuffing your face with bulgogi and soju to the beat of 
         house music is a religious experience not unlike blasting Alanis Morisette while driving down Sunset alone at night.
       </p>
