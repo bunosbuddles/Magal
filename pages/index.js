@@ -29,7 +29,7 @@ export default function Home() {
         house music is a religious experience not unlike blasting Alanis Morisette while driving down Sunset alone at night.
       </p>
 
-      <div class="tele">
+      <div className="tele">
         <p>Telephone: (213)383-1909</p>
       </div>
     </div>
