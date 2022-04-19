@@ -9,7 +9,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <div class="left">
+      <div className="left">
         <h2>Reservation Now Available Online</h2>
       </div>
 

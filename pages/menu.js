@@ -10,7 +10,7 @@ export default function menu() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <div class="menu">
+      <div className="menu">
         <Image src='/menu.jpg' width={1000} height={1400} />
       </div>
     </div>

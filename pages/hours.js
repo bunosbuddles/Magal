@@ -9,7 +9,7 @@ export default function hours() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <div class="left">
+      <div className="left">
         <h2>Working Hours</h2>
       </div>
 
@@ -18,7 +18,7 @@ export default function hours() {
       <h3>Saturday: 3pm-12am</h3>
       <h3>Sunday: 3pm-10pm</h3>
       
-      <div class="tele">
+      <div className="tele">
         <p>Telephone: (213)383-1909</p>
       </div>
     </div>
